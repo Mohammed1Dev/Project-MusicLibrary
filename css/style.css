@@ -1,0 +1,26 @@
+li a {
+    color: white;
+    font-family: 'poppins';
+    font-size: 0.8em;
+}
+/* a:visited {
+    color: #C15C7A;
+} */
+
+.container-fluid {
+    background: black;
+}
+.footer{
+    background: black;
+}
+.pied{
+    color: #929292;
+    font-family: 'poppins';
+}
+.piedd{
+    font-family: 'poppins';
+    font-size: 1.2em;
+}
+.large{
+    width: 100px;
+}
