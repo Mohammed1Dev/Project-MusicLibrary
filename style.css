@@ -1,0 +1,19 @@
+#add {
+	margin-top: 5%;
+}
+#add .row img{
+	max-width: 34%;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+/* #add .row h3{
+	margin-top: -30%;
+	margin-left: 4%;
+	font-weight: bold;
+	color: white;
+}
+#add .row h5{
+	margin-top: -2%;
+	margin-left: 4%;
+	font-weight: lighter;
+	color: white;
+} */
